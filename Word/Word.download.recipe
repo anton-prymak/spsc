@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Word.</string>
 	<key>Identifier</key>
-	<string>com.git.spsc.download.word</string>
+	<string>com.github.spsc.download.word</string>
 	<key>Input</key>
 	<dict>
 		<key>APP_FILENAME</key>
